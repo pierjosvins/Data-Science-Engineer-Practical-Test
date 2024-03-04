@@ -2,4 +2,4 @@ In this project, we present our approach to the classification of healthy and di
 
 Next, we construct different unimodal architectures and compare them with each other. For each modality, we select the best architecture in terms of test performance. We then use these to build different multimodal architectures. This project led to the adoption of an API deployment architecture for the best model resulting from our experimentation.
 
-For detailed insights into our findings and methodology, we encourage you to refer to the comprehensive report provided below: [Practical Test Report for Data Science Engineer Position] (https://github.com/pierjosvins/Data-Science-Engineer-Practical-Test/blob/main/Report-Data-Science-Engineer-Practical-Test.pdf)
+For detailed insights into our findings and methodology, we encourage you to refer to the comprehensive report provided below: [Practical Test Report for Data Science Engineer Position](https://github.com/pierjosvins/Data-Science-Engineer-Practical-Test/blob/main/Report-Data-Science-Engineer-Practical-Test.pdf)
